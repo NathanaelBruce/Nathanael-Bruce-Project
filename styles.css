@@ -1,0 +1,56 @@
+img {
+    height: 200px;   
+}
+body {
+font-family: "Comic Sans";
+font-size : 12px;
+text-align: center;
+color: blue;
+}
+h1 {
+    color: lime; 
+    background-color:#a11dd1;
+
+}
+
+img {
+    width: 770px; 
+    border: 20px groove #a11dd1;
+
+} 
+
+
+img:hover {
+   box-shadow: 30px 30px  300px #4108ff ;
+    border: 20px groove #0f39f5;
+
+} 
+
+h2 {
+    color: CYan; 
+    background-color:green;
+
+}
+
+h3 {
+    color: #ff1e00; 
+    background-color:red;
+
+}
+
+a {
+    font-size: 50px;
+    color: #21fc6a;
+} 
+.Zoro{ 
+    display:flex;	
+justify-content:space-around; 
+    border: 20px groove #a11dd1;  
+    color:#6014db;
+}  
+h3{ 
+    padding: 30px;
+} 
+h2{ 
+   margin: 60px;
+}
